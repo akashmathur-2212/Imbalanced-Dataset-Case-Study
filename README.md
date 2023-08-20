@@ -23,4 +23,6 @@
 # Model Comparison across Imbalanced Techniques
 ![image](https://github.com/akashmathur-2212/Imbalanced-Dataset-Case-Study/assets/63149422/55d270d6-039c-4909-8074-3392c80ef5c1)
 
-For detailed information refer : Project Overview & Summary.pptx
+For detailed information refer : [Project Overview & Summary.pptx](https://github.com/akashmathur-2212/Imbalanced-Dataset-Case-Study/blob/main/Project%20Overview%20%26%20Summary.pptx)
+
+Thank you!
